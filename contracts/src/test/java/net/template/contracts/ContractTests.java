@@ -1,4 +1,4 @@
-package com.template.contracts;
+package net.template.contracts;
 
 import net.corda.testing.node.MockServices;
 import org.junit.Test;
